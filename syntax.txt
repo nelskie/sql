@@ -1,0 +1,1 @@
+select * from t where (f1,f2) IN ((val1,val2), (val1,val2));
